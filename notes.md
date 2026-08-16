@@ -27,6 +27,7 @@
 - git reset --hard<hash>  -> removes the commits from history and removes changes
 
 # Miscellaneous
+- git push -f -> push forcefully from local to the remote one
 - git push -> push to central repo from our local repo
 - git pull -> allows us to retrieve the commits form central repository to our local project
 - git log -> shows the log of a branch
