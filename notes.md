@@ -19,6 +19,7 @@
 # Branch
 - git branch -> shows all the branches
 - git branch <branchname> -> creates a branch
+- git push -u origin <featureBranch>
 
 # undo changes
 - git revert<commit hash> -> creates a new commit that undoes the changes of the previous commit
